@@ -10,15 +10,15 @@
 This application uses Express.js API and Sequelize to interact with a MYSQL database to build the back end for an e-commerce site.
 
 ## Installation
-Run NPM i
-Run mysql -u root -p
-Run npm run seed
-Run npm start
+* Run NPM i
+* Run mysql -u root -p
+* Run npm run seed
+* Run npm start
 
 ## Collaborations
 Email: ehamzapour@gmail.com
 
 ## Demo
-![demonstration gif]()
+![gif demo](./images/e-commerce.gif)
 
-[Full Size of the Demonstration Video]()
+[file:///Users/viyanhamzapour/Downloads/Untitled_%20Jan%2012,%202023%206_44%20PM%20(2).webm]()
