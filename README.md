@@ -21,4 +21,4 @@ Email: ehamzapour@gmail.com
 ## Demo
 ![gif demo](./images/e-commerce.gif)
 
-[file:///Users/viyanhamzapour/Downloads/Untitled_%20Jan%2012,%202023%206_44%20PM%20(2).webm]()
+[Watch the video] https://drive.google.com/file/d/1t5no5U_lEQO0BghF4apOu7902D-w-F67/view
